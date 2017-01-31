@@ -1,13 +1,5 @@
-# Introduction
+This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
 
-# [](#header-2)Session 1
+### [Demo and Documentation](https://adueck.github.io/good-clean-read)
 
-# [](#header-2)Session 2 : Government at the digital age
-
-[Ressources](session2.md)
-
-# [](#header-2)Session 3
-
-# [](#header-2)Session 4
-
-# [](#header-2)Session 5
+Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
