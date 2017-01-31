@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 ---
 
 ## Government at the digital age
 ![](img/wikipedian_protester.png)
- > [Wikpiedia Protester (source : xkcd.com)](http://xkcd.com/285/)		 
+###### [Wikpiedia Protester (source : xkcd.com)](http://xkcd.com/285/)		 
 
 ### Introduction
 
