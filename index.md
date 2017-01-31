@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [solo](https://github.com/chibicode)
 
 #### Session 2
-[Government at the digital age](https://github.com/chibicode)
+[Government at the digital age](session2.md)
 
 #### Session 3
 [solo](https://github.com/chibicode)
