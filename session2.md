@@ -3,16 +3,16 @@ layout: default
 ---
 
 ## Government at the digital age
-
 ![](img/wikipedian_protester.png)
-
  > [Wikpiedia Protester (source : xkcd.com)](http://xkcd.com/285/)		 
 
 ### Introduction
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<ul class="fa-ul">
+<li>Dewey, John, 1939, *Creative Democracy : the Task before us* in *John Dewey and the Promise of America, Progressive Education Booklet No. 14. Columbus, Ohio: American Education Press*. [source](http://pages.uoregon.edu/koopman/courses_readings/dewey/dewey_creative_democracy.pdf)</li>
+<li><Butin, John, 2016, *25 Years Later, What Happened to 'Reinventing Government'?*, Governing the States and Localities [source](http://www.governing.com/topics/mgmt/gov-reinventing-government-book.html)</li>
+<li></li>
+<li></li>
+</ul>
 
 ### With footnotes too!
 
