@@ -2,9 +2,14 @@
 layout: default
 ---
 
-## Government at the digital age
+## Session 2
+
+### Government at the digital era
 ![](img/wikipedian_protester.png)
-Wikipiedian Protester[^1]  
+Wikipedian Protester[Source : xkcd.com](http://xkcd.com/285/)
+
+<i class="fa fa-download fa-3x" aria-hidden="true"></i> [Download the slides](img/slides.pdf)
+
 
 ### Introduction
 
@@ -12,7 +17,3 @@ Wikipiedian Protester[^1]
 - Butin, John, 2016, *25 Years Later, What Happened to 'Reinventing Government'?*, Governing the States and Localities [source](http://www.governing.com/topics/mgmt/gov-reinventing-government-book.html)
 
 > test test test test test !!!!!!
-
-##### Footnotes:
-
-[^1]: [Source : xkcd.com](http://xkcd.com/285/)		
