@@ -1,1 +1,1 @@
-# digitalmediasociety
+# Digital Media and Society
