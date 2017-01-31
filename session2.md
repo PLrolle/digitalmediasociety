@@ -4,7 +4,7 @@ layout: default
 
 ## Government at the digital age
 ![](img/wikipedian_protester.png)
-###### [Wikpiedia Protester (source : xkcd.com)](http://xkcd.com/285/)		 
+Wikipiedian Protester[^1]  
 
 ### Introduction
 
@@ -12,3 +12,7 @@ layout: default
 - Butin, John, 2016, *25 Years Later, What Happened to 'Reinventing Government'?*, Governing the States and Localities [source](http://www.governing.com/topics/mgmt/gov-reinventing-government-book.html)
 
 > test test test test test !!!!!!
+
+##### Footnotes:
+
+[^1]: [Source : xkcd.com](http://xkcd.com/285/)		
