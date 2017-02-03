@@ -24,21 +24,25 @@ layout: default
 
 ### Transparency
 > "How the Department of Justice used data to hold Baltimore police"
+
 Emily Shaw, Sunlight Foundation
 
 
 ### Participation
 >“The bill “République Numérique” was the first law to be crowdsourced to such extent.”
+
 Axelle Lemaire, Deputy Minister for Digital Affairs and Innovation
 
 
 ### Collaboration
 >“[In 2009], it was conventional wisdom in the tech world that the public sector was so slow and inefficient, so bureaucratically hidebound, that it wasn’t worth collaborating with.”
+
 Viren Lu, The New York Times
 
 
 ### Coproduction
 >“Public participation methods on the cyberpunk frontier of democracy”
+
 Liz Barry, Civic Hall
 
 
