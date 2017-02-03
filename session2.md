@@ -6,9 +6,9 @@ layout: default
 
 ### Government at the digital era
 ![](img/wikipedian_protester.png)
-<center>Wikipedian Protester <a href="http://xkcd.com/285/">Source : xkcd.com> </center>
+<center>Wikipedian Protester <a href="http://xkcd.com/285/">Source : xkcd.com</a> </center>
 
-<center><i class="fa fa-download fa-1x" aria-hidden="true"></i> <a href="/img/slides.pdf">Download the slides> </center>
+<center><i class="fa fa-download fa-1x" aria-hidden="true"></i> <a href="/img/slides.pdf">Download the slides</a> </center>
 
 
 ### Introduction
