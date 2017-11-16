@@ -13,13 +13,13 @@ layout: default
 
 ### Introduction
 
-- John Dewey, 1939, [_Creative Democracy : the Task before us_](http://pages.uoregon.edu/koopman/courses_readings/dewey/dewey_creative_democracy.pdf) in _John Dewey and the Promise of America, Progressive Education Booklet No. 14. Columbus, Ohio: American Education Press_.
+- John Dewey, 1939, [_Creative Democracy : the Task before us_](http://pages.uoregon.edu/koopman/courses_readings/dewey/dewey_creative_democracy.pdf) in _John Dewey and the Promise of America, Progressive Education Booklet No. 14._, American Education Press_
 - John Butin, 2016, [*25 Years Later, What Happened to 'Reinventing Government'?*](http://www.governing.com/topics/mgmt/gov-reinventing-government-book.html), Governing the States and Localities
 
 
 ### The Loch Ness Model
 
-- Björn-Sören Gigler, Savita Bailur, and Nicole Anand, 2014, [The Loch Ness Model : Can ICTs Bridge the Accountability Gap?](https://openknowledge.worldbank.org/bitstream/handle/10986/20113/901750WP0Box385308B00PUBLIC00loch0ness.pdf?sequence=1&isAllowed=y),The World Bank
+- Björn-Sören Gigler, Savita Bailur, and Nicole Anand, 2014, [The Loch Ness Model : Can ICTs Bridge the Accountability Gap?](*https://openknowledge.worldbank.org/bitstream/handle/10986/20113/901750WP0Box385308B00PUBLIC00loch0ness.pdf?sequence=1&isAllowed=y*),The World Bank
 
 
 ### Transparency
